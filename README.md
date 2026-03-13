@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Farzeensiddiquie/Farzeensiddiquie/main/banner.png" width="100%" alt="Farzeen Wasif Banner"/>
+</p>
 <h1 align="center">Hi 👋 I'm Farzeen Wasif !</h1>
 
 <p align="center">
